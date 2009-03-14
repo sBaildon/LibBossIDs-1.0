@@ -1,6 +1,6 @@
 ﻿--[[
 Name: LibBossIDs-1.0
-Revision: $Revision: 3$
+Revision: $Revision$
 Author: Elsia
 Website: http://
 Documentation: 
@@ -10,7 +10,7 @@ Dependencies: LibStub
 License: Public Domain, Absolutely no Warranty.
 ]]
 
-local MAJOR, MINOR = "LibBossIDs-1.0", "$Revision:  3$"
+local MAJOR, MINOR = "LibBossIDs-1.0", "$Revision$"
 local lib = LibStub:NewLibrary(MAJOR, MINOR)
 
 if not lib then return end
