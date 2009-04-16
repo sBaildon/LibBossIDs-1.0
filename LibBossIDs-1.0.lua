@@ -661,6 +661,17 @@ local BossIDs = {
 	[23863] = true, --"Zul'jin",
 	[5716] = true, --"Zul'Lor",
 	[29314] = true, --"Zuramat the Obliterator",
+	-- Patch 3.1 bosses below
+    [33993] = true, --"Emalon the Storm Watcher",
+    [33515] = true, --"Auriaya",
+    [32930] = true, --"Kologarn",
+    [33350] = true, --"Mimiron",
+    [33186] = true, --"Razorscale",
+    [33293] = true, --"XT-002 Deconstructor",
+    [32867] = true, --"Assembly of Iron",
+    [33288] = true, --"Yogg-Saron",
+    [32871] = true, --"Algalon the Observer",
 }
+	
 
 lib.BossIDs = BossIDs
