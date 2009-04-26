@@ -673,6 +673,7 @@ local BossIDs = {
     [32871] = true, --"Algalon the Observer",
 	[33432] = true, --"Leviathan Mk II",
 	[32882] = true, --"Jormungar Behemoth",
+	[33136] = true, --"Guardian of Yogg-Saron", 
 }
 	
 
