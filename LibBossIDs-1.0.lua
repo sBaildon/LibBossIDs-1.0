@@ -674,6 +674,10 @@ local BossIDs = {
 	[33432] = true, --"Leviathan Mk II",
 	[32882] = true, --"Jormungar Behemoth",
 	[33136] = true, --"Guardian of Yogg-Saron", 
+	[32865] = true, --"Thorim",
+	[32857] = true, --"Stormcaller Brundir",
+	[32867] = true, --"Steelbreaker",
+	[32927] = true, -- "Runemaster Molgeim",
 }
 	
 
