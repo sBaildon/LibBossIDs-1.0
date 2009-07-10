@@ -686,6 +686,8 @@ local BossIDs = {
 	[33670] = true, --"Aerial Command Unit",
 	[33524] = true, --"Saronite Animus",
 	[33890] = true, --"Brain of Yogg-Saron",	
+	[34496] = true, -- PTR 3.2 Twin Valkyrs: Eydis Darkbane
+	[34497] = true, --  PTR 3.2Twin Valkyrs :Fjola Lightbane
 }
 	
 
