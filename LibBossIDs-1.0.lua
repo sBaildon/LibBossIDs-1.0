@@ -687,7 +687,13 @@ local BossIDs = {
 	[33524] = true, --"Saronite Animus",
 	[33890] = true, --"Brain of Yogg-Saron",	
 	[34496] = true, -- PTR 3.2 Twin Valkyrs: Eydis Darkbane
-	[34497] = true, --  PTR 3.2Twin Valkyrs :Fjola Lightbane
+	[34497] = true, -- PTR 3.2Twin Valkyrs :Fjola Lightbane
+	[34564] = true, -- PTR 3.2 Anubarak
+	[34780] = true, -- PTR 3.2 Jaraxxus
+	[34796] = true, -- PTR 3.2 Gormok
+	[34797] = true, -- PTR 3.2 Icehowl
+	[34799] = true, -- PTR 3.2 Jormungars: Dreadscale
+	[35144] = true, -- PTR 3.2 Jormungars: Acidmaw
 }
 	
 
