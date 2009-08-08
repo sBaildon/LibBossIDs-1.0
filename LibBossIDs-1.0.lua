@@ -686,14 +686,22 @@ local BossIDs = {
 	[33670] = true, --"Aerial Command Unit",
 	[33524] = true, --"Saronite Animus",
 	[33890] = true, --"Brain of Yogg-Saron",	
-	[34496] = true, -- PTR 3.2 Twin Valkyrs: Eydis Darkbane
-	[34497] = true, -- PTR 3.2Twin Valkyrs :Fjola Lightbane
-	[34564] = true, -- PTR 3.2 Anubarak
-	[34780] = true, -- PTR 3.2 Jaraxxus
-	[34796] = true, -- PTR 3.2 Gormok
-	[34797] = true, -- PTR 3.2 Icehowl
-	[34799] = true, -- PTR 3.2 Jormungars: Dreadscale
+	[34496] = true, -- PTR 3.2 Raid: Twin Valkyrs: Eydis Darkbane
+	[34497] = true, -- PTR 3.2 Raid: Twin Valkyrs: Fjola Lightbane
+	[34564] = true, -- PTR 3.2 Raid: Anubarak
+	[34657] = true, --ToTC5 : Jaelyne Evensong		<Grand Champion of Darnassus>
+	[34701] = true, --ToTC5 : Colosos 				<Grand Champion of the Exodar>
+	[34702] = true, --ToTC5 : Ambrose Boltspark 		<Grand Champion of Gnomeregan>
+	[34703] = true, --ToTC5 : Lana Stouthammer		<Grand Champion of Ironforge>
+	[34705] = true, --ToTC5 : Marshal Jacob Alerius 	<Grand Champion of Stormwind>
+	[34780] = true, -- PTR 3.2 Raid: Jaraxxus
+	[34796] = true, -- PTR 3.2 Raid: Gormok
+	[34797] = true, -- PTR 3.2 Raid: Icehowl
+	[34799] = true, -- PTR 3.2 Raid: Jormungars: Dreadscale
+	[34928] = true, --ToTC5 :  Argent Confessor Paletress
+	[35119] = true, --ToTC5 :  Eadric the Pure 
 	[35144] = true, -- PTR 3.2 Jormungars: Acidmaw
+	[35451] = true, --ToTC5 :  The black knight
 }
 	
 
