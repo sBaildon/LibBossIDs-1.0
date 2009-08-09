@@ -702,6 +702,11 @@ local BossIDs = {
 	[35119] = true, --ToTC5 :  Eadric the Pure 
 	[35144] = true, -- PTR 3.2 Jormungars: Acidmaw
 	[35451] = true, --ToTC5 :  The black knight
+	[35569] = true, --ToTC5 : Eressea Dawnsinger <Grand Champion of Silvermoon>
+	[35570] = true, --ToTC5 : Zul'tore <Grand Champion of Sen'jin>
+	[35571] = true, --ToTC5 : Runok Wildmane <Grand Champion of the Thunder Bluff>
+	[35572] = true, --ToTC5 : Mokra the Skullcrusher <Grand Champion of Orgrimmar>
+	[35617] = true, --ToTC5 : Deathstalker Visceri <Grand Champion of Undercity>
 }
 	
 
