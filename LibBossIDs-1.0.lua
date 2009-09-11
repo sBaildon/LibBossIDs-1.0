@@ -731,6 +731,7 @@ local BossIDs = {
 	[34797] = true, -- PTR 3.2 Raid: Icehowl
 	[34799] = true, -- PTR 3.2 Raid: Jormungars: Dreadscale
 	[34928] = true, --ToTC5 : Argent Confessor Paletress
+	[35013] = true, -- VoA 3.2 : Koralon the Flamewatcher
 	[35119] = true, --ToTC5 : Eadric the Pure 
 	[35144] = true, -- PTR 3.2 Raid: Jormungars: Acidmaw
 	[35451] = true, --ToTC5 : The black knight
@@ -741,6 +742,5 @@ local BossIDs = {
 	[35610] = true, -- PTR 3.2 Raid: FactionChampions:  Cat (Hunterpet))
 	[35617] = true, --ToTC5 : Deathstalker Visceri <	<Grand Champion of Undercity>
 }
-	
 
 lib.BossIDs = BossIDs
