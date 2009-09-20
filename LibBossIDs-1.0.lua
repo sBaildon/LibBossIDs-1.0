@@ -119,6 +119,7 @@ local BossIDs = {
 	[26796] = true, --"Commander Stoutbeard",
 	-- Unknown ["Constructor & Controller"] = true, --"Constructor & Controller",
 	[645] = true, --"Cookie",
+	[23872] = true, --Coren Direbrew (Brewfest-Boss) BRD
 	[21270] = true, --"Cosmic Infuser",
 	[11120] = true, --"Crimson Hammersmith",
 	[6229] = true, --"Crowd Pummeler 9-60",
