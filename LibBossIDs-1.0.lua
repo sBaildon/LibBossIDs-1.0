@@ -742,6 +742,14 @@ local BossIDs = {
 	[35572] = true, --ToTC5 : Mokra the Skullcrusher	<Grand Champion of Orgrimmar>
 	[35610] = true, -- PTR 3.2 Raid: FactionChampions:  Cat (Hunterpet))
 	[35617] = true, --ToTC5 : Deathstalker Visceri <	<Grand Champion of Undercity>
+	
+	[36476] = true, --PTR 3.3 PoS: Ick, Kricks Minion 
+	[36477] = true, --PTR 3.3 PoS: Krick
+	[36494] = true, --PTR 3.3 PoS: Forgemaster Garfrost
+	[36497] = true, --PTR 3.3 FoS: Bronjahm
+	[36502] = true, --PTR 3.3 FoS: Devourer of Souls 
+	[36658] = true, --PTR 3.3 PoS: Scourgelord Tyrannus
+    [36661] = true, --PTR 3.3 PoS: Rimefang , Drake of Tyrannus
 }
 
 lib.BossIDs = BossIDs
