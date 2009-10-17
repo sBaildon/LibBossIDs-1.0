@@ -748,6 +748,7 @@ local BossIDs = {
 	[36494] = true, --PTR 3.3 PoS: Forgemaster Garfrost
 	[36497] = true, --PTR 3.3 FoS: Bronjahm
 	[36502] = true, --PTR 3.3 FoS: Devourer of Souls 
+	[36612] = true, --PTR 3.3 ICC: Lord Marrowgar
 	[36658] = true, --PTR 3.3 PoS: Scourgelord Tyrannus
     [36661] = true, --PTR 3.3 PoS: Rimefang , Drake of Tyrannus
 }
