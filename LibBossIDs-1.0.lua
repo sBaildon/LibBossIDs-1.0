@@ -687,6 +687,7 @@ local BossIDs = {
 	[33670] = true, --"Aerial Command Unit",
 	[33524] = true, --"Saronite Animus",
 	[33890] = true, --"Brain of Yogg-Saron",
+
 	---Horde Champions:
 	[34441] = true,-- PTR 3.2 Raid: FactionChampions:  Vivienne Blackwhisper	priest,horde
 	[34444] = true,-- PTR 3.2 Raid: FactionChampions: Thrakgar	shaman, horde
@@ -702,6 +703,7 @@ local BossIDs = {
 	[34456] = true,-- PTR 3.2 Raid: FactionChampions: Malithas Brightblade	paladin, horde
 	[34458] = true,-- PTR 3.2 Raid: FactionChampions: Gorgrim Shadowcleave	death knight, horde
 	[34459] = true,-- PTR 3.2 Raid: FactionChampions: Erin Misthoof	druid, horde
+
 	--Alliance Champions:
 	[34460] = true,-- PTR 3.2 Raid: FactionChampions: Kavina Grovesong	druid, alliance
 	[34461] = true,-- PTR 3.2 Raid: FactionChampions: Tyrius Duskblade	death knight- confirmed
@@ -722,35 +724,51 @@ local BossIDs = {
 	[34496] = true, --PTR 3.2 Raid: Twin Valkyrs: Eydis Darkbane
 	[34497] = true, --PTR 3.2 Raid: Twin Valkyrs: Fjola Lightbane
 	[34564] = true, --PTR 3.2 Raid: Anubarak
+	
 	[34657] = true, --ToTC5 : Jaelyne Evensong		<Grand Champion of Darnassus>
 	[34701] = true, --ToTC5 : Colosos 				<Grand Champion of the Exodar>
 	[34702] = true, --ToTC5 : Ambrose Boltspark 		<Grand Champion of Gnomeregan>
 	[34703] = true, --ToTC5 : Lana Stouthammer		<Grand Champion of Ironforge>
 	[34705] = true, --ToTC5 : Marshal Jacob Alerius 	<Grand Champion of Stormwind>
+	
 	[34780] = true, -- PTR 3.2 Raid: Jaraxxus
 	[34796] = true, -- PTR 3.2 Raid: Gormok
 	[34797] = true, -- PTR 3.2 Raid: Icehowl
 	[34799] = true, -- PTR 3.2 Raid: Jormungars: Dreadscale
+	
 	[34928] = true, --ToTC5 : Argent Confessor Paletress
-	[35013] = true, -- VoA 3.2 : Koralon the Flamewatcher
+	
+	[35013] = true, --VoA 3.2 : Koralon the Flamewatcher
+	
 	[35119] = true, --ToTC5 : Eadric the Pure 
+	
 	[35144] = true, -- PTR 3.2 Raid: Jormungars: Acidmaw
+	
 	[35451] = true, --ToTC5 : The black knight
 	[35569] = true, --ToTC5 : Eressea Dawnsinger 		<Grand Champion of Silvermoon>
 	[35570] = true, --ToTC5 : Zul'tore			<Grand Champion of Sen'jin>
 	[35571] = true, --ToTC5 : Runok Wildmane 		<Grand Champion of the Thunder Bluff>
 	[35572] = true, --ToTC5 : Mokra the Skullcrusher	<Grand Champion of Orgrimmar>
+	
 	[35610] = true, -- PTR 3.2 Raid: FactionChampions:  Cat (Hunterpet))
+	
 	[35617] = true, --ToTC5 : Deathstalker Visceri <	<Grand Champion of Undercity>
 	
 	[36476] = true, --PTR 3.3 PoS: Ick, Kricks Minion 
 	[36477] = true, --PTR 3.3 PoS: Krick
 	[36494] = true, --PTR 3.3 PoS: Forgemaster Garfrost
+	
 	[36497] = true, --PTR 3.3 FoS: Bronjahm
 	[36502] = true, --PTR 3.3 FoS: Devourer of Souls 
+	
 	[36612] = true, --PTR 3.3 ICC: Lord Marrowgar
+	[36627] = true, --PTR 3.3 ICC: Modermiene
+	
 	[36658] = true, --PTR 3.3 PoS: Scourgelord Tyrannus
     [36661] = true, --PTR 3.3 PoS: Rimefang , Drake of Tyrannus
+	
+	[37217] = true, --PTR 3.3 ICC: "Schatz" (mini-boss before rotface)
+	[37025] = true, --PTR 3.3 ICC: "Stinki" (mini-boss before rotface)
 }
 
 lib.BossIDs = BossIDs
