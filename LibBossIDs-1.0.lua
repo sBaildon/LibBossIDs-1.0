@@ -767,8 +767,19 @@ local BossIDs = {
 	[36658] = true, --PTR 3.3 PoS: Scourgelord Tyrannus
     [36661] = true, --PTR 3.3 PoS: Rimefang , Drake of Tyrannus
 	
+	[36855] = true, --PTR 3.3 ICC: Lady Deathwhisper
 	[37217] = true, --PTR 3.3 ICC: "Schatz" (mini-boss before rotface)
 	[37025] = true, --PTR 3.3 ICC: "Stinki" (mini-boss before rotface)
+----------------------------------------------------------------------------------------------
+	---drycode area- mined from db.mmochampion.com
+
+	[36678] = true, --PTR 3.3 ICC: Professor Putricide
+	[36789] = true, --PTR 3.3 ICC: Valithria Dreamwalker
+	[36853] = true, --PTR 3.3 ICC: Sindragosa
+
+	[38112] = true, --PTR 3.3 HoR: Falric
+	[38113] = true, --PTR 3.3 HoR: Marvyn
+	
 }
 
 lib.BossIDs = BossIDs
