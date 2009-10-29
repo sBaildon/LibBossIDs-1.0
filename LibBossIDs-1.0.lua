@@ -776,7 +776,12 @@ local BossIDs = {
 	[36678] = true, --PTR 3.3 ICC: Professor Putricide
 	[36789] = true, --PTR 3.3 ICC: Valithria Dreamwalker
 	[36853] = true, --PTR 3.3 ICC: Sindragosa
-
+	
+	[37955] = true, --PTR 3.3 ICC: Queen Lana'thel
+	[37970] = true, --PTR 3.3 ICC: Bloodelf Council: Prince Valanar
+	[37972] = true, --PTR 3.3 ICC: Bloodelf Council: Prince Keleseth
+	[37973] = true, --PTR 3.3 ICC: Bloodelf Council: Prince Taldaram
+	
 	[38112] = true, --PTR 3.3 HoR: Falric
 	[38113] = true, --PTR 3.3 HoR: Marvyn
 	
