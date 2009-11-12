@@ -768,12 +768,19 @@ local BossIDs = {
     [36661] = true, --PTR 3.3 PoS: Rimefang , Drake of Tyrannus
 	
 	[36789] = true, --PTR 3.3 ICC: Valithria Dreamwalker
-
 	[36853] = true, --PTR 3.3 ICC: Sindragosa
 	[36855] = true, --PTR 3.3 ICC: Lady Deathwhisper
+	
+	[37226] = true, --PTR 3.3 HoR: The Lichking
+	
 	[37217] = true, --PTR 3.3 ICC: "Precious" (mini-boss before rotface)
 	[37025] = true, --PTR 3.3 ICC: "Stinki" (mini-boss before rotface)
+	
 	[37950] = true,  --PTR 3.3 ICC: Valithria Dreamwalker (Phased)
+	
+	[38112] = true, --PTR 3.3 HoR: Falric
+	[38113] = true, --PTR 3.3 HoR: Marvyn
+
 ----------------------------------------------------------------------------------------------
 	---drycode area- mined from db.mmochampion.com
 
@@ -784,8 +791,7 @@ local BossIDs = {
 	[37972] = true, --PTR 3.3 ICC: Bloodelf Council: Prince Keleseth
 	[37973] = true, --PTR 3.3 ICC: Bloodelf Council: Prince Taldaram
 	
-	[38112] = true, --PTR 3.3 HoR: Falric
-	[38113] = true, --PTR 3.3 HoR: Marvyn
+
 	
 }
 
