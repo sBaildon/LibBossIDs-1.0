@@ -763,36 +763,34 @@ local BossIDs = {
 	
 	[36612] = true, --PTR 3.3 ICC: Lord Marrowgar
 	[36627] = true, --PTR 3.3 ICC: Modermiene
-	
+
 	[36658] = true, --PTR 3.3 PoS: Scourgelord Tyrannus
-    [36661] = true, --PTR 3.3 PoS: Rimefang , Drake of Tyrannus
+	[36661] = true, --PTR 3.3 PoS: Rimefang , Drake of Tyrannus
 	
+	[36678] = true, --PTR 3.3 ICC: Professor Putricide
 	[36789] = true, --PTR 3.3 ICC: Valithria Dreamwalker
 	[36853] = true, --PTR 3.3 ICC: Sindragosa
 	[36855] = true, --PTR 3.3 ICC: Lady Deathwhisper
-	
+
 	[37226] = true, --PTR 3.3 HoR: The Lichking
-	
+
+	[37025] = true, --PTR 3.3 ICC: "Stinki" (mini-boss before rotface)
 	[37217] = true, --PTR 3.3 ICC: "Precious" (mini-boss before rotface)
 	[37025] = true, --PTR 3.3 ICC: "Stinki" (mini-boss before rotface)
-	
-	[37950] = true,  --PTR 3.3 ICC: Valithria Dreamwalker (Phased)
-	
+	[37813] = true, --PTR 3.3 ICC: Deathbringer Saurfang
+
+	[37950] = true, --PTR 3.3 ICC: Valithria Dreamwalker (Phased)
+	[37955] = true, --PTR 3.3 ICC: Queen Lana'thel
+	[37970] = true, --PTR 3.3 ICC: Bloodelf Council: Prince Valanar
+	[37972] = true, --PTR 3.3 ICC: Bloodelf Council: Prince Keleseth
+	[37973] = true, --PTR 3.3 ICC: Bloodelf Council: Prince Taldaram
+
 	[38112] = true, --PTR 3.3 HoR: Falric
 	[38113] = true, --PTR 3.3 HoR: Marvyn
 
 ----------------------------------------------------------------------------------------------
 	---drycode area- mined from db.mmochampion.com
 
-	[36678] = true, --PTR 3.3 ICC: Professor Putricide
-
-	[37955] = true, --PTR 3.3 ICC: Queen Lana'thel
-	[37970] = true, --PTR 3.3 ICC: Bloodelf Council: Prince Valanar
-	[37972] = true, --PTR 3.3 ICC: Bloodelf Council: Prince Keleseth
-	[37973] = true, --PTR 3.3 ICC: Bloodelf Council: Prince Taldaram
-	
-
-	
 }
 
 lib.BossIDs = BossIDs
