@@ -776,7 +776,6 @@ local BossIDs = {
 
 	[37025] = true, --PTR 3.3 ICC: "Stinki" (mini-boss before rotface)
 	[37217] = true, --PTR 3.3 ICC: "Precious" (mini-boss before rotface)
-	[37025] = true, --PTR 3.3 ICC: "Stinki" (mini-boss before rotface)
 	[37813] = true, --PTR 3.3 ICC: Deathbringer Saurfang
 
 	[37950] = true, --PTR 3.3 ICC: Valithria Dreamwalker (Phased)
