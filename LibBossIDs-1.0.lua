@@ -940,6 +940,7 @@ local BossIDs = {
 	[36789] = true, -- Valithria Dreamwalker
 	[37950] = true, -- Valithria Dreamwalker (Phased)
 	[36853] = true, -- Sindragosa
+	[36597] = true, -- The Lich King (Icecrown Citadel)
 	-- The Lich King
 	[37217] = true, -- Precious
 	[37025] = true, -- Stinki
