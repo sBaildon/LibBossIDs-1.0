@@ -834,6 +834,7 @@ local BossIDs = {
 	[31125] = true, -- Archavon the Stone Watcher
 	[33993] = true, -- Emalon the Storm Watcher
 	[35013] = true, -- Koralon the Flamewatcher
+	[38433] = true, --Toravon the Ice Watcher
 	
 	-- The Eye of Eternity
 	[28859] = true, -- Malygos
