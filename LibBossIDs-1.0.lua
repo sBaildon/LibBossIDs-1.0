@@ -950,7 +950,13 @@ local BossIDs = {
 	[37025] = true, -- Stinki
 	[36661] = true, -- Rimefang <Drake of Tyrannus>
 	
-	
+	--Ruby Sanctum (PTR 3.3.5)
+	[39746] = true,	--Zarithrian
+	[39747] = true, --Saviana
+	[39751] = true, --Baltharus
+	[39863] = true, -- Halion
+	[39899] = true, -- Baltharus (Copy has an own id apparently)
+
 	-- World Dragons
 	[14889] = true, -- Emeriss
 	[14888] = true, -- Lethon
