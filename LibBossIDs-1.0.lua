@@ -956,6 +956,7 @@ local BossIDs = {
 	[39751] = true, --Baltharus
 	[39863] = true, -- Halion
 	[39899] = true, -- Baltharus (Copy has an own id apparently)
+	[40142] = true, -- Halion (twilight realm)
 
 	-- World Dragons
 	[14889] = true, -- Emeriss
