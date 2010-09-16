@@ -1,4 +1,4 @@
-﻿--[[
+--[[
 Name: LibBossIDs-1.0
 Revision: $Revision$
 Author: Elsia
@@ -957,6 +957,38 @@ local BossIDs = {
 	[39863] = true, -- Halion
 	[39899] = true, -- Baltharus (Copy has an own id apparently)
 	[40142] = true, -- Halion (twilight realm)
+
+	-- Blackrock Caverns
+	[39665] = true, -- Rom'ogg Bonecrusher
+	[39679] = true, -- Corla, Herald of Twilight
+	[39698] = true, -- Karsh Steelbender
+	[39700] = true, -- Beauty
+	[39705] = true, -- Ascendant Lord Obsidius
+
+	-- Throne of the Tides
+	[40586] = true, -- Lady Naz'jar
+	[40765] = true, -- Commander Ulthok
+	[40825] = true, -- Erunak Stonespeaker
+	[40788] = true, -- Mindbender Ghur'sha
+	[42172] = true, -- Ozumat
+
+	-- The Stonecore
+	[43438] = true, -- Corborus
+	[43214] = true,	-- Slabhide
+	[42188] = true,	-- Ozruk
+	[42333] = true, -- High Priestess Azil
+
+	-- The Vortex Pinnacle
+
+	-- Grim Batol
+	[39625] = true, -- General Umbriss
+	[40177] = true, -- Forgemaster Throngus
+	[40319] = true, -- Drahga Shadowburner
+	[40484] = true, -- Erudax
+
+	-- Halls of Origination
+
+	-- Lost City of the Tol'vir
 
 	-- World Dragons
 	[14889] = true, -- Emeriss
