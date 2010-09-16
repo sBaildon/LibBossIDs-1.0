@@ -979,6 +979,9 @@ local BossIDs = {
 	[42333] = true, -- High Priestess Azil
 
 	-- The Vortex Pinnacle
+	[43878] = true, -- Grand Vizier Ertan
+	[43873] = true, -- Altairus
+	[43875] = true, -- Asaad
 
 	-- Grim Batol
 	[39625] = true, -- General Umbriss
@@ -987,6 +990,7 @@ local BossIDs = {
 	[40484] = true, -- Erudax
 
 	-- Halls of Origination
+	[39425] = true, -- Temple Guardian Anhuur
 
 	-- Lost City of the Tol'vir
 
