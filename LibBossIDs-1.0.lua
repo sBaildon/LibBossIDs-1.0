@@ -1026,6 +1026,7 @@ local BossIDs = {
     [44600] = true, 	-- Halfus Wyrmbreaker
     [43735] = true, 	-- Elementium Monstrosity
     [43324] = true, 	-- Cho'gall
+	[45213] = true,		-- Sinestra (heroic) drycoded from http://db.mmo-champion.com/c/45213/sinestra/
 	
 	-- World Dragons
 	[14889] = true, -- Emeriss
