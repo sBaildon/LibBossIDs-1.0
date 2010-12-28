@@ -46,6 +46,12 @@ local BossIDs = {
 	[596]   = true, -- Brainwashed Noble, outside
 	[626]   = true, -- Foreman Thistlenettle, outside
 	[599]   = true, -- Marisa du'Paige, outside
+	[47162] = true, -- Glubtok
+	[47296] = true, -- Helix Gearbreaker
+	[43778] = true, -- Foe Reaper 5000
+	[47626] = true, -- Admiral Ripsnarl
+	[47739] = true, -- "Captain" Cookie
+	[49541] = true, -- Vanessa VanCleef
 	
 	-- Wailing Caverns
 	[5775]  = true, -- Verdan the Everliving
@@ -72,6 +78,9 @@ local BossIDs = {
 	[14682] = true, -- Sever (Scourge invasion only)
 	[4275]  = true, -- Archmage Arugal
 	[3872]  = true, -- Deathsworn Captain
+	[46962] = true, -- Baron Ashbury
+	[46963] = true, -- Lord Walden
+	[46964] = true, -- Lord Godfrey
 	
 	-- Blackfathom Deeps
 	[4887]  = true, -- Ghamoo-ra
