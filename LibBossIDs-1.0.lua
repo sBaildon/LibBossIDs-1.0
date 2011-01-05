@@ -163,22 +163,23 @@ local BossIDs = {
 	[6906]  = true, -- Baelog
 	
 	-- Zul'Farrak
-	[10082] = true, -- Zerillis
-	[10080] = true, -- Sandarr Dunereaver
-	[7272]  = true, -- Theka the Martyr
-	[8127]  = true, -- Antu'sul
+	[7267]  = true, -- Chief Ukorz Sandscalp
 	[7271]  = true, -- Witch Doctor Zum'rah
+	[7272]  = true, -- Theka the Martyr
+	[7273]  = true, -- Gahz'rilla
 	[7274]  = true, -- Sandfury Executioner
 	[7275]  = true, -- Shadowpriest Sezz'ziz
+	[7604]  = true, -- Sergeant Bly
+	[7605]	= true,	-- Raven
+	[7606]  = true, -- Oro Eyegouge
+	[7608]  = true, -- Murta Grimgut
+	[7795]  = true, -- Hydromancer Velratha
 	[7796]  = true, -- Nekrum Gutchewer
 	[7797]  = true, -- Ruuzlu
-	[7267]  = true, -- Chief Ukorz Sandscalp
+	[8127]  = true, -- Antu'sul
+	[10080] = true, -- Sandarr Dunereaver
+	[10082] = true, -- Zerillis
 	[10081] = true, -- Dustwraith
-	[7795]  = true, -- Hydromancer Velratha
-	[7273]  = true, -- Gahz'rilla
-	[7608]  = true, -- Murta Grimgut
-	[7606]  = true, -- Oro Eyegouge
-	[7604]  = true, -- Sergeant Bly
 	
 	-- Maraudon
 	-- [13718] = true, -- The Nameless Prophet (Pre-instance)
