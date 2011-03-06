@@ -198,6 +198,9 @@ local BossIDs = {
    -- Blackrock Mountain: Blackwing Descent
    -------------------------------------------------------------------------------
    [41570]	= true,	-- Magmaw
+   [42166]	= true,	-- Arcanotron
+   [42178]	= true,	-- Magmatron
+   [42179]	= true,	-- Electron
    [42180]	= true,	-- Toxitron
    [41378]	= true,	-- Maloriak
    [41442]	= true,	-- Atramedes
