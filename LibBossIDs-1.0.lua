@@ -1314,21 +1314,18 @@ local BossIDs = {
    [10081]	= true,	-- Dustwraith
 
    -------------------------------------------------------------------------------
-   -- Zul'Gurub
+   -- Zul'Gurub - 4.1
    -------------------------------------------------------------------------------
-   [14517]	= true,	-- High Priestess Jeklik
-   [14507]	= true,	-- High Priest Venoxis
-   [14510]	= true,	-- High Priestess Mar'li
-   [11382]	= true,	-- Bloodlord Mandokir
-   [15114]	= true,	-- Gahz'ranka
-   [14509]	= true,	-- High Priest Thekal
-   [14515]	= true,	-- High Priestess Arlokk
-   [11380]	= true,	-- Jin'do the Hexxer
-   [14834]	= true,	-- Hakkar
-   [15082]	= true,	-- Gri'lek
-   [15083]	= true,	-- Hazza'rah
-   [15084]	= true,	-- Renataki
-   [15085]	= true,	-- Wushoolay
+   [52053]	=true,	-- Zanzil
+   [52059]	=true,	-- High Priestess Kilnara
+   [52148]	=true,	-- Jin'do the Godbreaker
+   [52151]	=true,	-- Bloodlord Mandokir
+   [52155]	=true,	-- High Priest Venoxis
+   [52157]	=true,	-- Ohgan (Mandokirs Raptor)
+   [52269]	=true,	-- Renataki
+   [52258]	=true,	-- Gri'lek
+   [52271]	=true,	-- Hazza'rah
+   [52286]	=true,	-- Wushoolay
 }
 
 lib.BossIDs = BossIDs
