@@ -18,7 +18,7 @@ if not lib then return end
 -- LibBossIDs-1.0 provides a table that flags mobIDs true if the mob linked to the ID is a boss.
 -- Example: if LibStub("LibBossIDs-1.0").BossIDs[mobID] then print("Found a boss!") end
 -- How to get mobID from GUID:
--- localmobID = tonumber(GUID:sub(9, 12), 16)
+-- localmobID = tonumber(GUID:sub(-13, -9), 16)
 
 -- Explanation of comments. First quoted string is English locale string of mob.
 -- The first list was derived from LibBabble-Boss-3.0.
@@ -822,6 +822,10 @@ local BossIDs = {
    [1666]	= true,	-- Kam Deepfury
    [1696]	= true,	-- Targorr the Dread
    [1720]	= true,	-- Bruegal Ironknuckle
+   -- Cata:
+   [46383]  = true, -- Randolph Moloch
+   [46264]  = true, -- Lord Overheat
+   [46254]  = true, -- Hogger
 
    -------------------------------------------------------------------------------
    -- Stratholme: Scarlet Stratholme
