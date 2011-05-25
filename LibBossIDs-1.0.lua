@@ -25,6 +25,9 @@ if not lib then return end
 -- Commented out lines without comments are deemed to not be actual bosses, but trash mobs
 -- Otherwise comments indicate why they are not yet included.
 
+-- GENERALLY LibBossID users are interested in "Are we about to start a bossfight?" or "Did we just defeat a boss?"
+
+
 local BossIDs = {
    -------------------------------------------------------------------------------
    -- Abyssal Maw: Throne of the Tides
@@ -33,7 +36,8 @@ local BossIDs = {
    [40765]	= true,	-- Commander Ulthok
    [40825]	= true,	-- Erunak Stonespeaker
    [40788]	= true,	-- Mindbender Ghur'sha
-   [42172]	= true,	-- Ozumat
+   [42172]	= true,	-- Ozumat? Not in heroic! /Mikk
+   [44566]  = true, -- Ozumat - confirmed in heroic! /Mikk
 
    -------------------------------------------------------------------------------
    -- Ahn'kahet: The Old Kingdom
