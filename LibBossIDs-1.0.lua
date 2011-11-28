@@ -1038,6 +1038,18 @@ local BossIDs = {
    [49541]	= true,	-- Vanessa VanCleef
 
    -------------------------------------------------------------------------------
+   -- Dragon Soul (4.3 Raid)
+   -------------------------------------------------------------------------------  
+   [55265]	= true,	-- Morchok
+   [55308]	= true,	-- Warlord Zonozz
+   [55312]	= true,	-- Yor'sahj the Unsleeping
+   [55689]	= true,	-- Hagara the Binder
+   [55294]	= true,	-- Ultraxion
+   [39399]	= true,	-- Warmaster Blackhorn
+   [53879]	= true,	-- Spine Deathwing
+   [56173]	= true,	-- Madness Deathwing
+   
+   -------------------------------------------------------------------------------
    -- The Eye of Eternity
    -------------------------------------------------------------------------------
    [28859]	= true,	-- Malygos
