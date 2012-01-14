@@ -1046,7 +1046,7 @@ local BossIDs = {
    [55312]	= true,	-- Yor'sahj the Unsleeping
    [55689]	= true,	-- Hagara the Binder
    [55294]	= true,	-- Ultraxion
-   [39399]	= true,	-- Warmaster Blackhorn
+   [56427]	= true,	-- Warmaster Blackhorn
    [53879]	= true,	-- Spine Deathwing
    [56173]	= true,	-- Madness Deathwing
    
