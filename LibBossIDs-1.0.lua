@@ -536,10 +536,14 @@ local BossIDs = {
    [36661]	= true,	-- Rimefang <Drake of Tyrannus>
 
    -------------------------------------------------------------------------------
+   -- Isle of Giants
+   -------------------------------------------------------------------------------
+   [69161]	= true,	-- Oondasta
+
+   -------------------------------------------------------------------------------
    -- Isle of Thunder
    -------------------------------------------------------------------------------
    [69099]	= true,	-- Nalak <The Storm Lord>
-   [69161]	= true,	-- Oondasta
 
    -------------------------------------------------------------------------------
    -- Karazhan
@@ -1246,7 +1250,7 @@ local BossIDs = {
    [68905]	= true,	-- Lu'lin <Mistress of Solitude>, Twin Consorts
    [68904]	= true,	-- Suen <Mistress of Anger>, Twin Consorts
    [68397]	= true,	-- Lei Shen <The Thunder King>
-   --[]	= true,	-- Ra-den <Fallen Keeper of Storms>
+   [69473]	= true,	-- Ra-den <Fallen Keeper of Storms>
 
    -------------------------------------------------------------------------------
    -- Trial of the Champion
