@@ -349,11 +349,11 @@ local BossIDs = {
    -------------------------------------------------------------------------------
    -- End Time 4.3
    -------------------------------------------------------------------------------
-    [54431]	= true,	-- Echo of Baine
-	[54445] = true, -- Echo of Jaina
-    [54123] = true, -- Echo of Sylvanas
-	[54544] = true, -- Echo of Tyrande
-	[54432] = true, -- Murozond
+   [54431]	= true,	-- Echo of Baine
+   [54445] = true, -- Echo of Jaina
+   [54123] = true, -- Echo of Sylvanas
+   [54544] = true, -- Echo of Tyrande
+   [54432] = true, -- Murozond
 
    -------------------------------------------------------------------------------
    -- Firelands 4.2 PTR
@@ -375,10 +375,10 @@ local BossIDs = {
    -------------------------------------------------------------------------------
    -- Gate of the Setting Sun (MoP-Dungeon 5.0.1)
    -------------------------------------------------------------------------------
-	[54432]	= true,	--  Gadok
-	[56636]	= true,	--  Rimok
-	[56877]	= true,	--  Raigon
-	[56906]	= true,	--  Kiptilak
+   [54432]	= true,	--  Gadok
+   [56636]	= true,	--  Rimok
+   [56877]	= true,	--  Raigon
+   [56906]	= true,	--  Kiptilak
 
    -------------------------------------------------------------------------------
    -- Gnomeregan
@@ -1456,7 +1456,7 @@ local BossIDs = {
    -------------------------------------------------------------------------------
 
    [55085]	= true,	-- Peroth'arn
-   [54853]	= true,	-- Königin Azshara
+   [54853]	= true,	-- Queen Azshara
    [54969]	= true,	-- Mannoroth
    [55419]	= true,	-- Varo'then
 
