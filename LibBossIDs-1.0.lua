@@ -37,7 +37,7 @@ local BossIDs = {
 	[40825]	= true,	-- Erunak Stonespeaker
 	[40788]	= true,	-- Mindbender Ghur'sha
 	[42172]	= true,	-- Ozumat? Not in heroic! /Mikk
-	[44566]	= true, -- Ozumat - confirmed in heroic! /Mikk
+	[44566]	= true,	-- Ozumat - confirmed in heroic! /Mikk
 
 	-------------------------------------------------------------------------------
 	-- Ahn'kahet: The Old Kingdom
@@ -103,7 +103,7 @@ local BossIDs = {
 	[23418]	= true,	-- Essence of Suffering
 	[22947]	= true,	-- Mother Shahraz
 	[23426]	= true,	-- Illidari Council
-	[22917]	= true,	-- Illidan Stormrage -- Not adding solo quest IDs for now
+	[22917]	= true,	-- Illidan Stormrage	-- Not adding solo quest IDs for now
 	[22949]	= true,	-- Gathios the Shatterer
 	[22950]	= true,	-- High Nethermancer Zerevor
 	[22951]	= true,	-- Lady Malande
@@ -113,8 +113,8 @@ local BossIDs = {
 	-- Baradin Hold
 	-------------------------------------------------------------------------------
 	[47120]	= true,	-- Argaloth
-	[52363]	= true, -- Occu'thar
-	[55869]	= true, -- Alizabal (4.3)
+	[52363]	= true,	-- Occu'thar
+	[55869]	= true,	-- Alizabal (4.3)
 
 	-------------------------------------------------------------------------------
 	-- Blackfathom Deeps
@@ -350,10 +350,10 @@ local BossIDs = {
 	-- End Time 4.3
 	-------------------------------------------------------------------------------
 	[54431]	= true,	-- Echo of Baine
-	[54445] = true, -- Echo of Jaina
-	[54123] = true, -- Echo of Sylvanas
-	[54544] = true, -- Echo of Tyrande
-	[54432] = true, -- Murozond
+	[54445] = true,	-- Echo of Jaina
+	[54123] = true,	-- Echo of Sylvanas
+	[54544] = true,	-- Echo of Tyrande
+	[54432] = true,	-- Murozond
 
 	-------------------------------------------------------------------------------
 	-- Firelands 4.2 PTR
@@ -455,14 +455,14 @@ local BossIDs = {
 	[28234]	= true,	-- The Tribunal of Ages
 	[27978]	= true,	-- Sjonnir The Ironshaper
 
-	 -------------------------------------------------------------------------------
+	-------------------------------------------------------------------------------
 	-- Heart of Fear (MoP-Raid 5.0.1)
 	-------------------------------------------------------------------------------
-	[62837] = true, -- Grand Empress Shek'zeer
-	[63664] = true, -- Blade Lord Ta'yak
-	[63666] = true, -- Amber-Shaper Un'sok
-	[63667] = true, -- Garalon
-	[65501] = true, -- Wind Lord Mel'jarak
+	[62837] = true,	-- Grand Empress Shek'zeer
+	[63664] = true,	-- Blade Lord Ta'yak
+	[63666] = true,	-- Amber-Shaper Un'sok
+	[63667] = true,	-- Garalon
+	[65501] = true,	-- Wind Lord Mel'jarak
 	[66791]	= true,	-- Zorlok
 
 	-------------------------------------------------------------------------------
@@ -648,28 +648,28 @@ local BossIDs = {
 	-------------------------------------------------------------------------------
 	-- Mogu'Shan Palace (MoP-Dungeon 5.0.1)
 	-------------------------------------------------------------------------------
-	[61442]	= true, -- Kuai the Brute, Trial of the King
-	[61444]	= true, -- Ming the Cunning, Trial of the King
-	[61445]	= true, -- Haiyan the Unstoppable, Trial of the King
-	[61243]	= true, -- Gekkan
-	[61398]	= true, -- Xin the Weaponmaster
+	[61442]	= true,	-- Kuai the Brute, Trial of the King
+	[61444]	= true,	-- Ming the Cunning, Trial of the King
+	[61445]	= true,	-- Haiyan the Unstoppable, Trial of the King
+	[61243]	= true,	-- Gekkan
+	[61398]	= true,	-- Xin the Weaponmaster
 
 	-------------------------------------------------------------------------------
 	-- Mogu'Shan Vault (MoP-Raid 5.0.1)
 	-------------------------------------------------------------------------------
-	[59915]	= true, -- Jasper, Stone Guard
-	[60009]	= true, -- Feng the Accursed
-	[60043]	= true, -- Jade, Stone Guard
-	[60047]	= true, -- Amethyst, Stone Guard
-	[60051]	= true, -- Cobalt, Stone Guard
-	[60143] = true, -- Gara'jal the Spiritbinder
-	[60399] = true, -- Qin-xi
-	[60400] = true, -- Jan-xi
-	[60410] = true, -- Elegon
-	[61421] = true, -- Zian of the Endless Shadow -- 60701?
-	[61423] = true, -- Qiang the Merciless -- 60709?
-	[61427] = true, -- Subetai the Swift -- 60710?
-	[61429] = true, -- Meng the Demented
+	[59915]	= true,	-- Jasper, Stone Guard
+	[60009]	= true,	-- Feng the Accursed
+	[60043]	= true,	-- Jade, Stone Guard
+	[60047]	= true,	-- Amethyst, Stone Guard
+	[60051]	= true,	-- Cobalt, Stone Guard
+	[60143] = true,	-- Gara'jal the Spiritbinder
+	[60399] = true,	-- Qin-xi
+	[60400] = true,	-- Jan-xi
+	[60410] = true,	-- Elegon
+	[61421] = true,	-- Zian of the Endless Shadow -- 60701?
+	[61423] = true,	-- Qiang the Merciless -- 60709?
+	[61427] = true,	-- Subetai the Swift -- 60710?
+	[61429] = true,	-- Meng the Demented
 
 	-------------------------------------------------------------------------------
 	-- Molten Core
@@ -831,9 +831,9 @@ local BossIDs = {
 	-------------------------------------------------------------------------------
 	-- Scarlet Halls (MoP Dungeon)
 	-------------------------------------------------------------------------------
-	[58632] = true, -- Armsmaster Harlan
-	[59150] = true, -- Flameweaver Koegler
-	[59303] = true, -- Houndmaster Braun
+	[58632] = true,	-- Armsmaster Harlan
+	[59150] = true,	-- Flameweaver Koegler
+	[59303] = true,	-- Houndmaster Braun
 
 	-------------------------------------------------------------------------------
 	-- Scarlet Monastery: Armory
@@ -846,9 +846,9 @@ local BossIDs = {
 	[4542]	= true,	-- High Inquisitor Fairbanks
 	[3976]	= true,	-- Scarlet Commander Mograine
 	[3977]	= true,	-- High Inquisitor Whitemane
-	[59789]	= true, -- Thalnos the Soulrender (MoP Heroic 5.0.1)
-	[59223]	= true, -- Brother Korlof (MoP Heroic 5.0.1)
-	[60040]	= true, -- Commander Durand (MoP Heroic 5.0.1)
+	[59789]	= true,	-- Thalnos the Soulrender (MoP Heroic 5.0.1)
+	[59223]	= true,	-- Brother Korlof (MoP Heroic 5.0.1)
+	[60040]	= true,	-- Commander Durand (MoP Heroic 5.0.1)
 
 	-------------------------------------------------------------------------------
 	-- Scarlet Monastery: Graveyard
@@ -888,8 +888,8 @@ local BossIDs = {
 	[10504]	= true,	-- Lord Alexei Barov
 	[10502]	= true,	-- Lady Illucia Barov
 	[1853]	= true,	-- Darkmaster Gandling
-	[58633] = true, -- Instructor Chillheart (MoP Heroic)
-	[59200] = true, -- Lilian Voss (MoP Heroic)
+	[58633] = true,	-- Instructor Chillheart (MoP Heroic)
+	[59200] = true,	-- Lilian Voss (MoP Heroic)
 
 	-------------------------------------------------------------------------------
 	-- Searing Gorge
@@ -899,10 +899,10 @@ local BossIDs = {
 	-------------------------------------------------------------------------------
 	-- Shado-Pan Monastery (MoP Dungeon)
 	-------------------------------------------------------------------------------
-	[56719] = true, -- Sha of Violence
-	[56747] = true, -- Gu Cloudstrike
-	[56884] = true, -- Taran Zhu
-	[64387] = true, -- Master Snowdrift
+	[56719] = true,	-- Sha of Violence
+	[56747] = true,	-- Gu Cloudstrike
+	[56884] = true,	-- Taran Zhu
+	[64387] = true,	-- Master Snowdrift
 
 	-------------------------------------------------------------------------------
 	-- Shadowfang Keep
@@ -936,6 +936,7 @@ local BossIDs = {
 	[71480]	= true,	-- Sun Tenderheart, The Fallen Protectors
 	[72276]	= true,	-- Norushen, Amalgam of Corruption
 	[71734]	= true,	-- Sha of Pride
+
 	-- Gates of Retribution
 	[72249]	= true,	-- Galakras
 	[72311]	= true,	-- Varian (part of the Galakras encounter's trigger)
@@ -944,11 +945,13 @@ local BossIDs = {
 	[71859]	= true,	-- Haromm, his Darkness exceeded only by his Shamanism
 	[71858]	= true,	-- Kardriss, his Shamanism exceeded only by his Darkness
 	[71515]	= true,	-- General Nazgrim
+
 	-- The Underhold
 	[71454]	= true,	-- Malkorak
 	[73720]	= true,	-- Mogu Spoils (Spoils of War)
 	[71512]	= true,	-- Mantid Spoils (Spoils of War)
 	[71529]	= true,	-- Thok the Bloodthirsty, her Thirst exceeded only by her Blood
+
 	-- Downfall
 	[71504]	= true,	-- Siegecrafter Blackfuse, his fuses exceeded only by his... wait...
 	[71591]	= true,	-- Automated Shredder (Part of the Siegecrafter fight... not sure if this is the trigger or just him)
@@ -975,9 +978,9 @@ local BossIDs = {
 	-------------------------------------------------------------------------------
 	-- Stormstout Brewery (MoP Dungeon)
 	-------------------------------------------------------------------------------
-	[56717]	= true, -- Hoptallus
-	[57963]	= true, -- Ook-Ook
-	[59479]	= true, -- Yan-Zhu the Unsacked
+	[56717]	= true,	-- Hoptallus
+	[57963]	= true,	-- Ook-Ook
+	[59479]	= true,	-- Yan-Zhu the Unsacked
 
 	-------------------------------------------------------------------------------
 	-- Stormwind Stockade
@@ -989,9 +992,9 @@ local BossIDs = {
 	[1696]	= true,	-- Targorr the Dread
 	[1720]	= true,	-- Bruegal Ironknuckle
 	-- Cata:
-	[46383]	= true, -- Randolph Moloch
-	[46264]	= true, -- Lord Overheat
-	[46254]	= true, -- Hogger
+	[46383]	= true,	-- Randolph Moloch
+	[46264]	= true,	-- Lord Overheat
+	[46254]	= true,	-- Hogger
 
 	-------------------------------------------------------------------------------
 	-- Stratholme: Scarlet Stratholme
@@ -1138,22 +1141,22 @@ local BossIDs = {
 	-------------------------------------------------------------------------------
 	-- Temple of the Jade Serpent (MoP-Dungeon 5.0.1)
 	-------------------------------------------------------------------------------
-	[56448]	= true, -- Wise Mari
-	[58826]	= true, -- Zao Sunseeker /Library Event
-	[59051]	= true, -- (Strife /Library Event
-	[59726]	= true, -- (Anger) /Library Event
-	[56732]	= true, -- Liu Flameheart
-	[56439]	= true, -- Sha of Doubt
+	[56448]	= true,	-- Wise Mari
+	[58826]	= true,	-- Zao Sunseeker /Library Event
+	[59051]	= true,	-- (Strife) - Library Event
+	[59726]	= true,	-- (Anger) - Library Event
+	[56732]	= true,	-- Liu Flameheart
+	[56439]	= true,	-- Sha of Doubt
 
 	-------------------------------------------------------------------------------
 	-- Terrace of Endless Spring (MoP Raid)
 	-------------------------------------------------------------------------------
-	[60583]	= true, -- Protector Kaolan
-	[60585]	= true, -- Elder Regail
-	[60586]	= true, -- Elder Asani
-	[60999]	= true, -- Sha of Fear
-	[62442]	= true, -- Tsulong
-	[63099]	= true, -- Lei Shi
+	[60583]	= true,	-- Protector Kaolan
+	[60585]	= true,	-- Elder Regail
+	[60586]	= true,	-- Elder Asani
+	[60999]	= true,	-- Sha of Fear
+	[62442]	= true,	-- Tsulong
+	[63099]	= true,	-- Lei Shi
 
 	-------------------------------------------------------------------------------
 	-- The Bastion of Twilight
@@ -1166,8 +1169,8 @@ local BossIDs = {
 	[43688]	= true,	-- Arion
 	[43689]	= true,	-- Terrastra
 	[43735]	= true,	-- Elementium Monstrosity
-	[43324]	= true, -- Cho'gall
-	[45213]	= true,	-- Sinestra (heroic) drycoded from http://db.mmo-champion.com/c/45213/sinestra/
+	[43324]	= true,	-- Cho'gall
+	[45213]	= true,	-- Sinestra (Heroic) drycoded from http://db.mmo-champion.com/c/45213/sinestra/
 
 	-------------------------------------------------------------------------------
 	-- The Deadmines
@@ -1272,16 +1275,19 @@ local BossIDs = {
 	[69078]	= true,	-- Sul the Sandcrawler, Council of Elders
 	[69131]	= true,	-- Frost King Malakk, Council of Elders
 	[69132]	= true,	-- High Priestess Mar'li, Council of Elders
+
 	-- Forgotten Depths
 	[67977]	= true,	-- Tortos
 	[70229]	= true,	-- Flaming Head <Head of Megaera>
 	[70250]	= true,	-- Frozen Head <Head of Megaera>
 	[70251]	= true,	-- Venomous Head <Head of Megaera>
 	[69712]	= true,	-- Ji-Kun
+
 	-- Halls of Flesh-Shaping
 	[68036]	= true,	-- Durumu the Forgotten
 	[69017]	= true,	-- Primordius
 	[69427]	= true,	-- Dark Animus
+
 	-- Pinnacle of Storms
 	[68078]	= true,	-- Iron Qon <Master of Quilen>
 	[68905]	= true,	-- Lu'lin <Mistress of Solitude>, Twin Consorts
